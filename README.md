@@ -5,4 +5,6 @@ Application using React Native to send a message to anyone without adding them t
 - The app limits the country code for using api.
 - When you press send, the number is first checked if it is correct for the country and if it is correct, the user will be transferred to the person’s page in WhatsApp.
 
-![Alt Text](blob:https://giphy.com/b5a8c740-3933-49f0-abff-b65f4c586b77)
+![](https://github.com/karamalmlahe/gifs/blob/main/ezgif.com-gif-maker.gif|width=100)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
